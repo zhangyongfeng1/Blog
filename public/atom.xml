@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhangyongfeng1.github.io/"/>
-  <updated>2019-05-07T03:34:59.472Z</updated>
+  <updated>2019-05-09T07:48:28.159Z</updated>
   <id>https://zhangyongfeng1.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>javaScript_ES 6 简介</title>
+    <link href="https://zhangyongfeng1.github.io/2019/05/09/javascript_es6_1/"/>
+    <id>https://zhangyongfeng1.github.io/2019/05/09/javascript_es6_1/</id>
+    <published>2019-05-09T04:00:00.000Z</published>
+    <updated>2019-05-09T07:48:28.159Z</updated>
+    
+    <summary type="html">
+    
+      javaScript_ES 6 简介
+    
+    </summary>
+    
+      <category term="张永枫" scheme="https://zhangyongfeng1.github.io/categories/%E5%BC%A0%E6%B0%B8%E6%9E%AB/"/>
+    
+    
+      <category term="javascript" scheme="https://zhangyongfeng1.github.io/tags/javascript/"/>
+    
+      <category term="ES6" scheme="https://zhangyongfeng1.github.io/tags/ES6/"/>
+    
+  </entry>
   
   <entry>
     <title>git lfs入门</title>
@@ -57,26 +79,6 @@
   </entry>
   
   <entry>
-    <title>erlang-实战-对文件内容进行处理</title>
-    <link href="https://zhangyongfeng1.github.io/2018/06/26/erlang_do1/"/>
-    <id>https://zhangyongfeng1.github.io/2018/06/26/erlang_do1/</id>
-    <published>2018-06-26T06:27:25.000Z</published>
-    <updated>2019-05-07T02:19:37.807Z</updated>
-    
-    <summary type="html">
-    
-      对文件进行处理,将 xml报文格式的报文转为lua 去取值
-    
-    </summary>
-    
-      <category term="张永枫" scheme="https://zhangyongfeng1.github.io/categories/%E5%BC%A0%E6%B0%B8%E6%9E%AB/"/>
-    
-    
-      <category term="erlang" scheme="https://zhangyongfeng1.github.io/tags/erlang/"/>
-    
-  </entry>
-  
-  <entry>
     <title>javaScript_基础1</title>
     <link href="https://zhangyongfeng1.github.io/2018/06/26/javascirpt_base1/"/>
     <id>https://zhangyongfeng1.github.io/2018/06/26/javascirpt_base1/</id>
@@ -93,6 +95,26 @@
     
     
       <category term="javascript" scheme="https://zhangyongfeng1.github.io/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>erlang-实战-对文件内容进行处理</title>
+    <link href="https://zhangyongfeng1.github.io/2018/06/26/erlang_do1/"/>
+    <id>https://zhangyongfeng1.github.io/2018/06/26/erlang_do1/</id>
+    <published>2018-06-26T06:27:25.000Z</published>
+    <updated>2019-05-07T02:19:37.807Z</updated>
+    
+    <summary type="html">
+    
+      对文件进行处理,将 xml报文格式的报文转为lua 去取值
+    
+    </summary>
+    
+      <category term="张永枫" scheme="https://zhangyongfeng1.github.io/categories/%E5%BC%A0%E6%B0%B8%E6%9E%AB/"/>
+    
+    
+      <category term="erlang" scheme="https://zhangyongfeng1.github.io/tags/erlang/"/>
     
   </entry>
   
@@ -297,7 +319,7 @@
     <link href="https://zhangyongfeng1.github.io/2018/03/26/%E6%9B%B4%E6%96%B0%E6%97%B6%E9%97%B4%E6%A0%91/"/>
     <id>https://zhangyongfeng1.github.io/2018/03/26/更新时间树/</id>
     <published>2018-03-26T04:12:12.000Z</published>
-    <updated>2019-05-07T03:37:30.704Z</updated>
+    <updated>2019-05-09T07:49:52.383Z</updated>
     
     <summary type="html">
     
