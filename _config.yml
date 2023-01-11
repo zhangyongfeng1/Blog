@@ -79,7 +79,9 @@ theme: maupassant
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/zhangyongfeng1/zhangyongfeng1.github.io.git
+  branch: master 
 
 feed:
   type: atom
