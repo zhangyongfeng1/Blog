@@ -19,7 +19,7 @@ description:
 ## 写在前面
 本文主要是以一个erlang的学习记录，有错误的地方欢迎指正。
 
-![本人的erlang学习脑图](https://upload-images.jianshu.io/upload_images/6841945-a92401e828dbb1fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![本人的erlang学习脑图](/img/erlang.png)
 
 
 ## 模块和函数
