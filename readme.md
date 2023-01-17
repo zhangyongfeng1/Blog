@@ -1,24 +1,44 @@
 
 ├── node_modules
+
 ├── scaffolds
+
 ├── source  md存放文件路径
+
 │   └── _posts  
+
 └── themes  存放主题？
+
     └── landscape
+
         ├── languages
+
         ├── layout
+
         │   ├── _partial
+
         │   │   └── post
+
         │   └── _widget
+
         ├── scripts
+
         └── source
+
             ├── css
+
             │   ├── _partial
+
             │   ├── _util
+
             │   ├── fonts
+
             │   └── images
+
             ├── fancybox
+
             │   └── helpers
+
             └── js
 
 
