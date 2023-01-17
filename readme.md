@@ -20,3 +20,13 @@
             ├── fancybox
             │   └── helpers
             └── js
+
+
+
+hexo clean 清除public
+
+hexo generate 打包
+
+hexo server 本地运行
+
+hexo deploy 提交布署远程代码
